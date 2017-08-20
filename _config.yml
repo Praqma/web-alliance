@@ -1,7 +1,7 @@
-name: JOSRA
+name: CoDe Alliance
 highlighter: rouge
 exclude: [README.md]
 timezone: Europe/Copenhagen
-url: www.josra.org
+url: codeall.praqma.com
 markdown: kramdown
 permalink:  none
