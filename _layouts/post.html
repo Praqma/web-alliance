@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  {%include head.html%}
+  <body>
+    <div id="main_container">
+    {%include banner.html%}
+      <div class="row">
+        <div class="side_container">
+          {% include lssinglecat.html cat='blog' %}
+          {% include lssinglecat.html cat='flow' %}
+        </div>
+        <div class="content_container">
+          <strong>Category</strong>
+            {% for catname in site.data.catnames %}
+              {% for category in page.categories %}
+                {% if catname.dir == category %}
+                  <em><span title="{{catname.description}}">{{catname.name}}</span></em>&nbsp;&nbsp;
+                 {% endif %}
+              {% endfor %}
+            {% endfor %}<br/>
+          <strong>By:&nbsp;</strong>{% for author in page.author %}
+          <em>{{author}}</em>&nbsp;&nbsp;
+          {% endfor %}<br/>
+          <strong> On:</strong>
+          {{page.date | date: "%A, %B %d. %Y"}}<br/>
+          <h1>{{page.title}}</h1>
+          {{ content }}
+          {%include google-comments.html%}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
