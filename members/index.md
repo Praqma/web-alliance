@@ -1,8 +1,7 @@
 ---
-layout: member
-title: Sponsors
+layout: default
+title: Members
 ---
-Scruitineze the statistics of "[Josra By Numbers](/members/numbers.html)"
 
 [__Praqma__<br/>_The Continuous Delivery Company_ Driving the initiative behind the alliance and delivering the sweat, management and infrastructure that enables Josra.](http://www.praqma.com){: .sponsorbox  .gold #praqma target="member"}
 [__Yxlon International__<br/>The leading supplier of industrial X-ray and Computed Tomography systems for non-destructive material testing.](http://www.yxlon.com/Home){: target="member" .sponsorbox .gold #yxlon }

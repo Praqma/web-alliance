@@ -32,9 +32,6 @@ The ClearCase UCM plugin for Jenkins CI was first released as a Proof-Of-Concept
 
 All the internships that Praqma are hosting and supervising will continue to aim at producing some kind of added value to the tools in the JOSRA tool stack under our guidance. So in the end your alliance fees does not only buy yourself benefits but also support next-generation programmers to meet real life challenges.
 
-## What's in the box?
-
-The [annual membership fee](/offer) - will give you a pile of [benefits and support](/included) and cover support and development in [a lot of different](/tools) Open Source technologies - including [Jenkins CI](http://www.jenkins-ci.org).
 
 ## References:
 
