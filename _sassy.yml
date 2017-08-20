@@ -1,0 +1,3 @@
+exclude:
+  - css/josra.sass
+  - _sass

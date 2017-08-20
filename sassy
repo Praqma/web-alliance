@@ -1,0 +1,127 @@
+#!/usr/bin/perl
+require 5.14.0;
+use strict;                # http://perldoc.perl.org/strict.html
+use Carp;                  # http://perldoc.perl.org/Carp.html
+use Cwd;                   # http://perldoc.perl.org/Cwd.html
+use Getopt::Long;          # http://perldoc.perl.org/Getopt/Long.html
+use Pod::Usage;            # http://perldoc.perl.org/Pod/Usage.html
+use File::chdir;
+use File::Basename;
+
+our %self = (
+  filename       => '',
+  path           => '',
+  suffix         => '',
+);
+
+($self{filename},$self{path},$self{suffix}) = fileparse(Cwd::abs_path($0));
+
+our %params = (
+  temp       => "$self{path}_sass/_tmp_josra.sass",
+  out        => "$self{path}_site/css/josra.css",
+  in         => "$self{path}css/josra.sass",
+  config     => "$self{path}_sassy.yml",
+  sass_dir   => "_sass",
+);
+
+GetOptions(
+  (
+		"in=s"         => \$params{in},
+		"out=s"        => \$params{out},
+    "temp=s"       => \$params{temp},
+    "sass_dir"     => \$params{sass_dir},
+		"help"         => sub { pod2usage(-exitval => 0, -verbose => 2) },
+	)
+) || pod2usage(-exitval => 1, -verbose => 0);
+
+
+system('sed s/^---$// '.$params{in}.' > '.$params{temp});
+my ($fn,$p,$s) = fileparse($params{out});
+system("mkdir -p $p");
+
+
+my @commands = (
+  'jekyll serve --no-watch --config _config.yml,'.$params{config},
+  "mkdir -p $p",
+  'sass -I '.$params{sass_dir}.' --watch '.$params{temp}.':'.$params{out},
+);
+
+my @pids;
+foreach my $cmd( @commands ) {
+    print "Taking a nab\n";
+    system("sleep 2");
+    my $pid = fork;
+    if ( $pid ) {
+        # parent process
+        push @pids, $pid;
+        print "Started process: $pid\n";
+        next;
+    }
+
+    # now we're in the child
+    print $cmd."\n";
+    system( $cmd );
+    print $cmd." returned $?\n";
+    exit;            # terminate the child
+}
+
+wait for @pids;   # wait for each child to terminate
+system("rm css/dummy.txt");
+
+print "all done.\n";
+
+
+=pod
+
+=head1 NAME
+
+Sassy - fires up your jekyll and watches only your sass files.
+
+=head1 SYNOPSIS
+
+B< C<< sassy [--in sass-file] [--out css-file] [--tmp temp-sassfile] [--sass_dir dir] >> >
+
+B< C<< sass --help >> >
+
+B<Example>
+
+  sassy #all values have default values
+
+Will do the following:
+
+- strip the front matter from the sass-file and create a tmp one
+- fire up Jekyll in no watch mode
+- start a sass watch on the tmp file
+
+
+=head1 OPTIONS
+
+The following switches exists and can all be overridden.
+
+=over 8
+
+=item B< C<< --in sass-file >> >
+
+=item B< C<< --out css-file >> >
+
+=item B< C<< --tmp temp-sassfile >> >
+
+=item B< C<< --sass_dir dir >> >
+
+All have default values defined as per the C< %params > hash
+
+=back
+
+=head1 DESCRIPTION
+
+
+B<Copyright>
+
+L<Lars Kruse, 2017|http://github.com/lakruzz>
+
+B<License>
+
+L<GPLv3|https://www.gnu.org/licenses/gpl-3.0.en.html>
+
+
+=cut

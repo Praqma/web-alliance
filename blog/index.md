@@ -8,6 +8,7 @@ Interesting stuff in the context of Josra.
 
 ## Contribute
 
+
 As a Josra alliance member, you are encouraged to contribute with blog posts
 
 __These are the ground rules:__
