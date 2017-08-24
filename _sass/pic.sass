@@ -7,25 +7,38 @@
   font-size: 83%
 
   &.center
-    margin-left: auto
-    margin-right: auto
-    margin-bottom: 20px
-    margin-top: 0px
-    clear: both
-
+    @extend .col-md-12
+    @extend .col-sm-12
+    @extend .col-xs-12
+    margin-left: 0px
+    margin-right: 0px
+    padding-left: 0px
+    padding-right: 0px
+    margin-bottom: 10px
 
   &.right
-    float: right
-    clear: left
-
+    @extend .pull-right
+    margin-right: 0px
+    padding-right: 0px
+    margin-bottom: 10px
 
   &.left
-    float:        left
-    margin-right: 10px
+    @extend .pull-left
+    margin-left: 0px
+    padding-left: 0px
+    margin-bottom: 10px
 
+  &.large
+    @extend .col-md-12
+    @extend .col-sm-12
+    @extend .col-xs-12
 
   &.medium
-    width: 450px
+    @extend .col-md-7
+    @extend .col-sm-9
+    @extend .col-xs-12
 
   &.small
-    width:     250px
+    @extend .col-md-4
+    @extend .col-sm-7
+    @extend .col-xs-6
