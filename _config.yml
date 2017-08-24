@@ -5,3 +5,18 @@ timezone: Europe/Copenhagen
 home: http://alliance.praqma.com
 markdown: kramdown
 permalink:  none
+
+
+permalink: /:categories/:title/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  -
+    scope:
+      path: "" # any file
+    values:
+      layout: default

@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Josra charter
+title: Continuous Delivery Alliance Charter
 author: Lars Kruse
 ---
 
@@ -12,7 +11,7 @@ We used to call ourself the _Joint Open Source Roadmap Alliance_ or just plain J
 
 ![Roadmap](../images/roadmap.png){: .pic .center }
 
-In December 2016 we changed the name to _The Continuous Delivery Alliance_ for two reasons: First, We found that the members were primarily interested in networking and collaborating on Continuous Delivery related issues, and Open Source appeared to be less of less importance. Second we change the membership structure from being a paid subscription to being free, but _by invitation only_
+In December 2016 we changed the name to _The Continuous Delivery Alliance_ for two reasons: First, We found that the members were primarily interested in networking and collaborating on Continuous Delivery related issues, and Open Source appeared to be less of less importance. Second we changed the membership structure from being a paid subscription to being free, but _by invitation only_
 
 ## Purpose and objectives
 
