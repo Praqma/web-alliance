@@ -2,9 +2,14 @@
 #main_container
   @extend .container
 
+  .row
+    &.content
+      display: flex
+
   .side_container
     padding: 15px 15px 15px 15px
     background: lightgrey
+    align-items: stretch
     @extend .col-md-3
     @extend .col-sm-3
     @extend .hidden-xs

@@ -1,12 +1,23 @@
 ---
 ---
-
-@import "variables"
 @import "reset"
-@import "typography"
+
+/*First variables*/
+@import "variables"
+
+/* ...Then Bootstrap*/
+@import "../bower_components/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss"
+
+/* ...then theme related stuff*/
+@import "wireframe"
+
+/* ...then mixins and helpers*/
+
 @import "mixins"
 @import "helpers"
+
+
+/* ...then the rest */
+@import "typography"
 @import "header"
 @import "pic"
-@import "wireframe"
-@import "../bower_components/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss"
