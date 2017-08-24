@@ -2,6 +2,6 @@ name: CoDe Alliance
 highlighter: rouge
 exclude: [README.md]
 timezone: Europe/Copenhagen
-url: codeall.praqma.com
+home: http://alliance.praqma.com
 markdown: kramdown
 permalink:  none

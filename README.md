@@ -1,3 +1,3 @@
 # Continuous Delivery Alliance Web site
 
-Can be browsed live at [codeall.praqma.com](http://codeall.praqma.com)
+Can be browsed live at [alliance.praqma.com](http://alliance.praqma.com)
