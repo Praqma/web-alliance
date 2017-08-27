@@ -4,15 +4,20 @@
   {%include head.html%}
 
   <body>
-    <div id="main_container">
+  <div id="main_container">
     {%include banner.html%}
       <div class="row content">
         <div class="side_container">
-          {% include lssinglecat.html cat='gatherings' %}
+          <a href="/gatherings/">
+            <img alt="7th gathering invite" src="/images/7th-gathering-v2.jpg" class="pic center" >
+            <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=37122456266&ref=etckt" frameborder="0" height="250" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family: 'Lato', Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.code-conf.com/code-alliance-seven/">A Code-conf event</a></div></div>
+            <hr/>
+            <b>If you need an invite - mail us as <a href="mailto:alliance@praqma.com">alliance@praqma.com</a> and explain you case</b>
+          </a>
         </div>
         <div class="content_container">
-          <div class="title">{{page.title}}</div>
-            {{ content }}
+          <h1>{{page.title}}</h1>
+          {{ content }}
         </div>
       </div>
     </div>
