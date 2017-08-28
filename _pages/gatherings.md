@@ -21,8 +21,7 @@ We will also do a roundtable to hear all participants, short tool demos, and bre
 We will - as always - meet at some pub/restaurant and share a simple but cosy meal - and a few beers.
 
 ## 2nd day
-This is an extra day added to the gathering - It will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…).
-We'll finish the day early (15.00-16.00) so everyone can catch a train or plane home.
+This day will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…). We'll finish the day early (15.00-16.00), so everyone can catch a train or plane home.
 
 ## How to join
 
