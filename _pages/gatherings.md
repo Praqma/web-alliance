@@ -13,8 +13,7 @@ In the 6 previous gatherings, we have met for a full day, but for the first time
 
 
 ## 1st day
-
-In the morning, the host (Volvo) will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack that's being utilized at Volvo is ambitious; Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe, ...
+In the morning, welcome you from 10.00 and start the agenda at 11.00. Our host Volvo will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack utilized at Volvo is ambitious: Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe...
 
 We will also do a roundtable to hear all participants, short tool demos, and break-out sessions to discuss the roadmaps of the different initiatives that we run together: JenkinsAsCode, the Git Phlow being compliant with Windows, Atlassian's Jira/Bitbucket, QuTiCon...
 
@@ -22,8 +21,8 @@ We will also do a roundtable to hear all participants, short tool demos, and bre
 We will - as always - meet at some pub/restaurant and share a simple but cosy meal - and a few beers.
 
 ## 2nd day
-
-This is an extra day added to the gathering - It will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…)
+This is an extra day added to the gathering - It will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…).
+We'll finish the day early (15.00-16.00) so everyone can catch a train or plane home.
 
 ## How to join
 
