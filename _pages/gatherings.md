@@ -11,15 +11,19 @@ title: 7th Gathering
 
 In the 6 previous gatherings, we have met for a full day, but for the first time that we'll be gathering for _two full days_.
 
+
 ## 1st day
 
 In the morning, the host (Volvo) will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack that's being utilized at Volvo is ambitious; Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe, ...
 
-Later during the day, other members will chip in and we will get status on some of the achievements since last meeting, and there will be demos of some of the initiatives that are cooking: JenkinsAsCode, the Git Phlow being compliant with Windows, Atlassian's Jira/Bitbucket, QuTiCon...
+We will also do a roundtable to hear all participants, short tool demos, and break-out sessions to discuss the roadmaps of the different initiatives that we run together: JenkinsAsCode, the Git Phlow being compliant with Windows, Atlassian's Jira/Bitbucket, QuTiCon...
+
+### In the evening
+We will - as always - meet at some pub/restaurant and share a simple but cosy meal - and a few beers.
 
 ## 2nd day
 
-This is an extra day added to the gathering - we will conduct workshops and hands-on joint development. The focus will be on Tracey and Eiffel. We will take deep dives into the nitty gritty details, elaborating and compiling issues for the backlogs as we go.
+This is an extra day added to the gathering - It will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…)
 
 ## How to join
 
