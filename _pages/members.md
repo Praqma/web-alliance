@@ -2,7 +2,7 @@
 title: Alliance Members
 ---
 
-Members listed here are the companies who either funded one or more tools in the Continuous Delivery tool stack or who attend the half-yearly gatherings on a regular basis
+Members listed here are the companies who either funded one or more tools in the Continuous Delivery tool stack, or who attend the half-yearly gatherings on a regular basis.
 
 ## Praqma
 The Continuous Delivery Company. The organizers and enablers behind the CoDe Alliance initiative.
