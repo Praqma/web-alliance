@@ -1,5 +1,5 @@
 ---
-layout: gatherings
+layout: front
 title: 7th Gathering
 ---
 
