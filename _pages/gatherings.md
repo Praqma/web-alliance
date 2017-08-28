@@ -5,7 +5,7 @@ title: 7th Gathering
 
 **The CoDe Alliance** is gathering every six month. Gatherings are hosted by one of the members; we share thoughts, presentations, and demo results and new approaches.
 
-## Next gathering is at Volvo in Gothenburg 13th and 14th of November
+## The next gathering is at Volvo in Gothenburg on November 13th and 14th
 
 ![Alliance Chat](/images/7th-gathering-v3.jpg){: .pic .right .medium }
 
