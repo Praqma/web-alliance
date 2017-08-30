@@ -87,3 +87,20 @@ header
       height: 7px
       margin-bottom: 6px
       margin-top: 5px
+
+
+
+  /* classes for the animation of the menu */
+  .rotatedLeft
+    transform: rotate(45deg)
+
+  .rotatedRight
+    transform: rotate(-45deg)
+
+  .rotatedLeft, .rotatedRight
+    transition-timing-function: ease
+    transition: transform 500ms
+    transition: 500ms ease
+
+  .pad
+    padding-bottom: 25px
