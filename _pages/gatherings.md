@@ -43,7 +43,7 @@ Volvo will present the SIL test setup, and have promised a tour to their test ar
 
 * **Git Phlow - daily life now with Jira, Windows and Jenkins pipeline** (DEMO) [more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"}
 * **Jenkins As Code - A flexible MVP with complete separation of configuration for easy maintenance and upgrade** (Lightening talk) [more details]({{site.url}}/initiatives/#jac){: target="\_blank"}
-* **All the traceability projects - kick-start of our theme** (Lightening talk) [more details]({{site.url}}/initiatives/#traceability){: target="\_blank"}
+* **All the traceability projects - kick-start of our theme** (Lightening talk) [more details]({{site.url}}/initiatives/#traceabilitytheme){: target="\_blank"}
 
 ### Open space discussions
 
