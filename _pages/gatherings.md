@@ -7,21 +7,75 @@ title: 7th Gathering
 
 ## The next gathering is at Volvo in Gothenburg on November 13th and 14th
 
-![Alliance Chat](/images/7th-gathering-v3.jpg){: .pic .right .medium }
+![Alliance Chat](/images/7th-gathering-v3.jpg){: .pic .right .small }
 
 In the 6 previous gatherings, we have met for a full day, but for the first time that we'll be gathering for _two full days_.
 
+**[The theme of this gathering is traceability]({{site.url}}/initiatives/#traceabilitytheme){: target="\_blank"}** there will be several topics around this and the 2nd will have focus on this.
 
-## 1st day
-In the morning, welcome you from 10.00 and start the agenda at 11.00. Our host Volvo will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack utilized at Volvo is ambitious: Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe...
+## The 1st day
 
-We will also do a roundtable to hear all participants, short tool demos, and break-out sessions to discuss the roadmaps of the different initiatives that we run together: JenkinsAsCode, the Git Phlow being compliant with Windows, Atlassian's Jira/Bitbucket, QuTiCon...
+ Program will be from 11 AM to 6 PM + dinner. The following is roughly our program.
 
-### In the evening
+### Welcome (11 AM)
+
+In the morning, welcome you from 10.00 and start the agenda at 11.00 so you have time to arrive by train.
+
+Official program starts at 11:00 AM.
+
+### Round table
+
+We will also do a round table to hear all participants you have time to present your company with pains and prouds from the continuous delivery efforts.
+
+We also want to hear expectations for this gathering, so we can try to meet them.
+
+### Lunch (12 PM)
+
+We all have lunch together.
+
+### Volvo presenting
+
+Our host Volvo will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack utilized at Volvo is ambitious: Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe...
+
+Volvo will present the SIL test setup, and have promised a tour to their test area.
+
+### Tool demos and lightening talks
+
+* **Git Phlow - daily life now with Jira, Windows and Jenkins pipeline** (DEMO) [more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"}
+* **Jenkins As Code - A flexible MVP with complete separation of configuration for easy maintenance and upgrade** (Lightening talk) [more details]({{site.url}}/initiatives/#jac){: target="\_blank"}
+* **All the traceability projects - kick-start of our theme** (Lightening talk) [more details]({{site.url}}/initiatives/#traceability){: target="\_blank"}
+
+### Open space discussions
+
+We have more than two hours for open space discussions breaking out in smaller groups gathering around the demos and lightening speaks above, or other suggested topics from members or  [our complete list of recent initiatives]({{site.url}}/initiatives/){: target="\_blank"}.
+
+We jointly wrap up the sessions and the goal is to form work groups around other joint efforts around the initiatives we run together.
+
+### Wrap-up constituting work groups (6 PM)
+
+The day always ends with some practical details, and that we constitute work groups around our efforts going forwards until to the next gathering.
+
+### Dinner (7 PM)
+
 We will - as always - meet at some pub/restaurant and share a simple but cosy meal - and a few beers.
 
-## 2nd day
-This day will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…). We'll finish the day early (15.00-16.00), so everyone can catch a train or plane home.
+We have an hour for transportation, and will be able to use public transportation to the city center.
+
+## The 2nd day
+
+The program will end at 3 PM to allow you to catch trains and flights.
+
+We will be dedicated to workshops, hackathons, code camps and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…). We'll finish the day early around 3 PM, so everyone can catch a train or plane home.
+
+We should be able to have two tracks if needed. So it is also possible to group around subjects from [our complete list of recent initiatives]({{site.url}}/initiatives/){: target="\_blank"}, where we will be ready to present those not already presented and discuss road maps and new ideas.
+
+### The traceability workshop
+
+There will be one primary workshop around traceability facilitated by Praqma. We will go into more details on different projects and efforts, than the lightening talk allowed.
+We hope also to present customer specific examples, maybe with the member.
+
+The goal of this workshop is to look at the overall goals we could share in a new initiative, and then try to draft an architecture of a system that you can easily deploy and work with as it evolves through our alliance.
+
 
 ## How to join
 
@@ -32,7 +86,7 @@ The gathering is free to attend, there is only two prerequisites that need to be
 
 When you get your invite, it will contain the promotion code for the registration.
 
-**If you need an invite - mail us as [alliance@praqma.com](mailto:alliance@praqma.com) and explain your case.**
+**If you need an invite - mail us at [alliance@praqma.com](mailto:alliance@praqma.com) and explain your case.**
 
 ## Register
 
