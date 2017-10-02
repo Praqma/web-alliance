@@ -1,0 +1,13 @@
+<div class="agenda">
+  {% for agenda in page.agendas %}
+  <div class="left">
+    <p class="bold blue">{{ agenda.time }}</p>
+  </div>
+
+  <div class="right">
+    <p class="bold">{{ agenda.name }}</p>
+    <p>{{ agenda.activity }}</p>
+  </div>
+
+  {% endfor %}
+</div>
