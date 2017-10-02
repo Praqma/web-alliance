@@ -77,7 +77,7 @@ We hope also to present customer specific examples, maybe with the member.
 The goal of this workshop is to look at the overall goals we could share in a new initiative, and then try to draft an architecture of a system that you can easily deploy and work with as it evolves through our alliance.
 
 
-## How to join
+## How to join {#howtojoin}
 
 The gathering is free to attend, there is only two prerequisites that need to be met for you to pack your suitcase and join us in Gothenburg:
 
