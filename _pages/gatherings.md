@@ -17,8 +17,28 @@ In the 6 previous gatherings, we have met for a full day, but for the first time
 ## The 1st day
 
 Program will be from 11 AM to 6 PM + dinner. The following is roughly our program.
-<br>
 
+
+
+{% comment %}
+A G E N D A
+For formatting agenda, there are simply three classes that can be added behind each text paragraph:
+
+{ .agenda-time }  
+  left columnn; blue and bold.
+  The column is exactly 70px wide so in a case anything else than time is prefered it has to be updated in includes/agenda.sass
+
+{ .agenda-name }  
+  right column; bold and underlined
+
+{ .right }        
+  right column; simple paragraph text, each entry creates a new paragraph
+
+{% endcomment %}
+
+
+
+<br>
 
 11 AM
 {: .agenda-time }
@@ -51,6 +71,8 @@ Our host Volvo will share details on how they work with Continuous Delivery, Dev
 Volvo will present the SIL test setup, and have promised a tour to their test area.
 {: .right }
 
+<br>
+
 Tool demos and lightening talks
 {: .agenda-name }
 * Git Phlow - daily life now with Jira, Windows and Jenkins pipeline (DEMO) [more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"}
@@ -67,6 +89,7 @@ We have more than two hours for open space discussions breaking out in smaller g
 We jointly wrap up the sessions and the goal is to form work groups around other joint efforts around the initiatives we run together.
 {: .right }
 
+<br>
 
 6 PM
 {: .agenda-time }
@@ -74,7 +97,6 @@ Wrap-up constituting work groups
 {: .agenda-name }
 The day always ends with some practical details, and that we constitute work groups around our efforts going forwards until to the next gathering.
 {: .right }
-
 
 7 PM
 {: .agenda-time }
@@ -84,6 +106,8 @@ We will - as always - meet at some pub/restaurant and share a simple but cosy me
 {: .right }
 We have an hour for transportation, and will be able to use public transportation to the city center.
 {: .right }
+
+<br>
 
 ## The 2nd day
 
