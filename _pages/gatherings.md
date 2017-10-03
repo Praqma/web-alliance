@@ -15,29 +15,62 @@ In the 6 previous gatherings, we have met for a full day, but for the first time
 
 ## The 1st day
 
- Program will be from 11 AM to 6 PM + dinner. The following is roughly our program.
+Program will be from 11 AM to 6 PM + dinner. The following is roughly our program.
 
-### Welcome (11 AM)
 
+
+{% comment %}
+A G E N D A
+For formatting agenda, there are simply three classes that can be added behind each text paragraph:
+
+{ .agenda-time }  
+  left columnn; blue and bold.
+  The column is exactly 70px wide so in a case anything else than time is prefered it has to be updated in includes/agenda.sass
+
+{ .agenda-name }  
+  right column; bold and underlined
+
+{ .right }        
+  right column; simple paragraph text, each entry creates a new paragraph
+
+{% endcomment %}
+
+
+
+<br>
+
+11 AM
+{: .agenda-time }
+Welcome
+{: .agenda-name }
 In the morning, welcome you from 10.00 and start the agenda at 11.00 so you have time to arrive by train.
-
+{: .right }
 Official program starts at 11:00 AM.
+{: .right }
 
-### Round table
-
+Round table
+{: .agenda-name }
 We will also do a round table to hear all participants you have time to present your company with pains and prouds from the continuous delivery efforts.
-
+{: .right }
 We also want to hear expectations for this gathering, so we can try to meet them.
+{: .right }
 
-### Lunch (12 PM)
 
+12 PM
+{: .agenda-time }
+Lunch
+{: .agenda-name }
 We all have lunch together.
+{: .right }
 
-### Volvo presenting
-
+Volvo presenting
+{: .agenda-name }
 Our host Volvo will share details on how they work with Continuous Delivery, DevOps, Test and Automation. Volvo has many different teams working on improving and automating software development processes. The tool stack utilized at Volvo is ambitious: Jenkins, Artifactory, Windows containers, Git, ELK stack, Jira, Confluence, SAFe...
-
+{: .right }
 Volvo will present the SIL test setup, and have promised a tour to their test area.
+{: .right }
+
+<br>
 
 ### Tool demos and lightening talks
 
@@ -51,15 +84,25 @@ We have more than two hours for open space discussions breaking out in smaller g
 
 We jointly wrap up the sessions and the goal is to form work groups around other joint efforts around the initiatives we run together.
 
-### Wrap-up constituting work groups (6 PM)
+<br>
 
+6 PM
+{: .agenda-time }
+Wrap-up constituting work groups
+{: .agenda-name }
 The day always ends with some practical details, and that we constitute work groups around our efforts going forwards until to the next gathering.
+{: .right }
 
-### Dinner (7 PM)
-
+7 PM
+{: .agenda-time }
+Dinner
+{: .agenda-name }
 We will - as always - meet at some pub/restaurant and share a simple but cosy meal - and a few beers.
-
+{: .right }
 We have an hour for transportation, and will be able to use public transportation to the city center.
+{: .right }
+
+<br>
 
 ## The 2nd day
 
