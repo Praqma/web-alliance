@@ -145,9 +145,9 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 
 <br>
 
-## Practical information
+## Practical information {#practicalinfo}
 
-**Venue:** The gathering will take place at Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
+**Venue:** The gathering will take place at **Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg** ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
 
 **Hotel:** We have pre-booked 15 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
 
@@ -170,7 +170,7 @@ When you get your invite, it will contain the promotion code for the registratio
 
 <br>
 
-## Register now
+## Sign-up {#signup}
 
 <br>
 
