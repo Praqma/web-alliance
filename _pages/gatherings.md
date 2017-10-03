@@ -24,14 +24,14 @@ Program will be from 11 AM to 6 PM + dinner. The following is roughly our progra
 A G E N D A
 For formatting agenda, there are simply three classes that can be added behind each text paragraph:
 
-{ .agenda-time }  
+{: .agenda-time }  
   left columnn; blue and bold.
   The column is exactly 70px wide so in a case anything else than time is prefered it has to be updated in includes/agenda.sass
 
-{ .agenda-name }  
+{: .agenda-name }  
   right column; bold and underlined
 
-{ .right }        
+{: .right }        
   right column; simple paragraph text, each entry creates a new paragraph
 
 {% endcomment %}
@@ -73,21 +73,18 @@ Volvo will present the SIL test setup, and have promised a tour to their test ar
 
 <br>
 
-Tool demos and lightening talks
-{: .agenda-name }
-* Git Phlow - daily life now with Jira, Windows and Jenkins pipeline (DEMO) [more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"}
-* Jenkins As Code - A flexible MVP with complete separation of configuration for easy maintenance and upgrade (Lightening talk) [more details]({{site.url}}/initiatives/#jac){: target="\_blank"}
-* All the traceability projects - kick-start of our theme (Lightening talk) [more details]({{site.url}}/initiatives/#traceability){: target="\_blank"}
-{: .right }
+### Tool demos and lightening talks
+
+* **Git Phlow - daily life now with Jira, Windows and Jenkins pipeline (DEMO)** [more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"}
+* **Jenkins As Code - A flexible MVP with complete separation of configuration for easy maintenance and upgrade** (Lightening talk) [more details]({{site.url}}/initiatives/#jac){: target="\_blank"}
+* **All the traceability projects - kick-start of our theme** (Lightening talk) [more details]({{site.url}}/initiatives/#traceability){: target="\_blank"}
 
 
-Open space discussions
-{: .agenda-name }
+### Open space discussions
+
 We have more than two hours for open space discussions breaking out in smaller groups gathering around the demos and lightening speaks above, or other suggested topics from members or  [our complete list of recent initiatives]({{site.url}}/initiatives/){: target="\_blank"}.
-{: .right }
 
 We jointly wrap up the sessions and the goal is to form work groups around other joint efforts around the initiatives we run together.
-{: .right }
 
 <br>
 
