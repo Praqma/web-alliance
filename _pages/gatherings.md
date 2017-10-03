@@ -110,7 +110,7 @@ Welcome and planning of the day
 {: .agenda-time }
 Workshops
 {: .agenda-name }
-The morning will be dedicated to workshops, hackathons, and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…).We should be able to have two tracks if needed. So it is also possible to group around subjects from [our complete list of recent initiatives]({{site.url}}/initiatives/){: target="\_blank"}, where we will be ready to present those not already presented and discuss road maps and new ideas.
+**The morning will be dedicated to workshops, hackathons, and discussions on the topic of Tracey (Eiffel, QuTiCon, Compliance as Code…).** We should be able to have two tracks, if needed. So, it is also possible to group around subjects from [our complete list of recent initiatives]({{site.url}}/initiatives/){: target="\_blank"}, where we will be ready to present those not already presented and discuss road maps and new ideas.
 {: .right }
 **The traceability workshop:** This will be one important workshop run by Praqma. We will go into more details on different projects and efforts, than the lightening talk allowed. We also hope to present customer specific examples, maybe with the member.
 The goal of this workshop is to look at the overall goals we could share in a new initiative, and then try to draft the architecture of a system that you can easily deploy and work with as it evolves through our alliance.
@@ -140,21 +140,22 @@ Wrap-up of the whole gathering
 {: .agenda-time }
 Good-bye
 {: .agenda-name }
-The program ends at 3 PM to allow you to catch your trains and flights back home.
+The program ends at 15:00 to allow you to catch your trains and flights back home.
 {: .right }
 
 <br>
 
 ## Practical information
 
-**Address:** Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
+**Venue:** The gathering will take place at Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
 
-**Hotel:** Most of us will stay at Scandic Europe for one night on November 13th. If you want to book a single room, just mention it when you sign up on Eventbrite. We will book the room and you can pay for it directly at the hotel (960 SEK for the night).
+**Hotel:** We have pre-booked 15 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
 
 **Public transport:** From the hotel or central station to the Volvo venue, you can take the bus 16 towards Eketrägatan and stop at Lundby gamla kyrka (about 20 minutes), or a tram (lines 5, 6 and 10) to Gropegårdsgatan/Eketrägatan. ([Gothenburg transport network](http://www.vasttrafik.se/){: target="\_blank"})
 
 If you have any questions, just write to us [events@praqma.com](mailto:events@praqma.com)
 
+<br>
 
 ## How to join {#howtojoin}
 
@@ -166,6 +167,8 @@ The gathering is free to attend, there is only two prerequisites that need to be
 When you get your invite, it will contain the promotion code for the registration.
 
 **If you need an invite - mail us at [alliance@praqma.com](mailto:alliance@praqma.com) and explain your case.**
+
+<br>
 
 ## Register now
 
