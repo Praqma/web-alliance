@@ -65,11 +65,11 @@ Our host Volvo will share details on how they work with Continuous Delivery, Dev
 {: .agenda-time }
 Demo and lightening talks
 {: .agenda-name }
-Git Phlow - daily life now with Jira, Windows and Jenkins pipeline ([more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"})
+**Git Phlow** - daily life now with Jira, Windows and Jenkins pipeline ([more details]({{site.url}}/initiatives/#gitphlow){: target="\_blank"})
 {: .right }
-Jenkins As Code - A flexible MVP with complete separation of configuration for easy maintenance and upgrade ([more details]({{site.url}}/initiatives/#jac){: target="\_blank"})
+**Jenkins As Code** - A flexible MVP with complete separation of configuration for easy maintenance and upgrade ([more details]({{site.url}}/initiatives/#jac){: target="\_blank"})
 {: .right }
-All the traceability projects - kick-start of our theme ([more details]({{site.url}}/initiatives/#traceability){: target="\_blank"})
+**All the traceability projects** - kick-start of our theme ([more details]({{site.url}}/initiatives/#traceability){: target="\_blank"})
 {: .right }
 
 14.30
@@ -149,7 +149,7 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 
 **Venue:** The gathering will take place at **Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg** ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
 
-**Hotel:** We have pre-booked 15 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
+**Hotel:** We have pre-booked 20 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
 
 **Public transport:** From the hotel or central station to the Volvo venue, you can take the bus 16 towards Eketrägatan and stop at Lundby gamla kyrka (about 20 minutes), or a tram (lines 5, 6 and 10) to Gropegårdsgatan/Eketrägatan. ([Gothenburg transport network](http://www.vasttrafik.se/){: target="\_blank"})
 

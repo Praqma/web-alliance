@@ -11,19 +11,19 @@ Here is a list of our recent initiatives.
 
 ## Git Phlow {#gitphlow}
 
-Git Phlow will soon be available with support for Atlassian Jira and Windows. The Continious Delivery Storyline entails our Pretested Integration plugin for Jenkins, which now supports scripted pipelines and comes as a git extension, for increased flexibility. This is all made possible by Kamstrup, fellow CoDe Alliance member.
-
 On the 7th gathering, we will demo the complete setup and showcase the pragmatic automated approach to working with git. We will dive into the different aspects of using _The Phlow_ and how they optimize your daily workflows.
+
+Git Phlow will soon be available with support for Atlassian Jira and Windows. The Continuous Delivery Storyline entails our Pretested Integration plugin for Jenkins, which now supports scripted pipelines and comes as a git extension, for increased flexibility. This is all made possible by Kamstrup, fellow CoDe Alliance member.
 
 ## Jenkins as Code {#jac}
 
-On the 7th gathering, we're ready to present a flexible MVP with complete separation of configuration for easy maintenance and upgrade.
-
-The new Jenkins as Code is a quick-to-start and easy-to-use solution with an optional Docker setup.
+_The new Jenkins as Code is a quick-to-start and easy-to-use solution with an optional Docker setup._
 
 By putting it into a plugin and separating configuration files - it’s up to users to decide where to store them and how to maintain them - we make it much more comfortable to use and keep up to date: all new features will come with plugin updates that won’t compromise configuration.
 
 Lightweight Docker setup will make it even easier to start and maintain but isn’t obligatory. A plugin can be applied on already working Jenkins instances, no matter how it is hosted.
+
+On the 7th gathering, we're ready to present a flexible MVP with complete separation of configuration for easy maintenance and upgrade.
 
 ## Custom Bill of Materials - Gradle plugin
 
@@ -31,7 +31,7 @@ _Build products from configuration of components and automate bill of material._
 
 We can present a customer specific plugin, and if you're interested in being involved they are ready to make it publicly available.
 
-The idea is old and already implemented several times at different companies. This Gradle plugin harvest the many best practices and distill it into something we can make an easy to use tool. It supports you in building your products from released components and to automate the tedious work of making bill of material.
+The idea is old and already implemented several times at different companies. This Gradle plugin harvest the many best practices and distill it into something we can make an easy-to-use tool. It supports you in building your products from released components and to automate the tedious work of making bill of material.
 
 Think software as inventory and work towards utilizing configuration rotation and dependency try-out.
 
@@ -45,12 +45,12 @@ Praqma's Oslo office is ready to introduce our Infrastructure as Code platform, 
 
 _Running Atlassian products in a way that makes your operations impressed._
 
-We will present how to run the Atlassian Data Center toolstack in Docker with Kubernetes to bring the strength of DataCenter and Kubernetes together: Scale horizontally and get resiliency; Everything is described as code; Upgrade Jira with Zero downtime and scale to meet demands in seconds.
+We will present how to run the Atlassian Data Center toolstack in Docker with Kubernetes to bring the strength of Data Center and Kubernetes together: Scale horizontally and get resiliency; Everything is described as code; Upgrade Jira with zero downtime and scale to meet demands in seconds.
 ASK also supports Atlassian Server editions.
 
 ## Install hardware using containers
 
-At our customers, we are working on installing hardware boards in their products using containers. The idea is to wrap dependencies for build and hardware installation in a container to alleviate other dependencies than physical cables and a Docker image. Thsi enables build system and developers to use the same environment, as well as the installation.
+At our customers, we are working on installing hardware boards in their products using containers. The idea is to wrap dependencies for build and hardware installation in a container to alleviate other dependencies than physical cables and a Docker image. This enables build system and developers to use the same environment, as well as the installation.
 
 If interested, you need to contact us before the gathering, so we can ask the customer if we can demonstrate the setup.
 
@@ -82,3 +82,5 @@ We see many of our customers, most of them members of the Code Alliance, investi
 There is room for both research and investigations, as well a lot of work we could share and reuse to come up with a good project to benefit all of the members. So on day two we plan to have workshops around these broad topics, but we will also have to dive into details and be concrete.
 
 We will facilitate some workshops and we will start with getting ourselves the complete architectural overview of all the pieces we see belong in this area and how they work together nicely. We have a plan.
+
+<br/>
