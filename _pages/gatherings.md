@@ -151,7 +151,7 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 
 **Hotel:** We have pre-booked 20 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
 
-**Public transport:** From the hotel or central station to the Volvo venue, you can take the bus 16 towards Eketrägatan and stop at Lundby gamla kyrka (about 20 minutes), or a tram (lines 5, 6 and 10) to Gropegårdsgatan/Eketrägatan. ([Gothenburg transport network](http://www.vasttrafik.se/){: target="\_blank"})
+**Public transport:** From the hotel (Nordstan station) or the central station to Volvo, you can take a tram (lines 5, 6 or 10) to Gropegårdsgatan. ([See Gothenburg transport network](http://www.vasttrafik.se/){: target="\_blank"})
 
 If you have any questions, just write to us [events@praqma.com](mailto:events@praqma.com)
 
