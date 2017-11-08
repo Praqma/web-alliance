@@ -35,9 +35,10 @@ For formatting agenda, there are simply three classes that can be added behind e
   right column; simple paragraph text, each entry creates a new paragraph
 
 {% endcomment %}
+
 10.00
 {: .agenda-time }
-Doors open
+Doors open - light breakfast
 {: .agenda-name }
 We will gather and mingle around a cup of coffee to wait for the ones travelling to Gothenburg.
 {: .right }
@@ -96,6 +97,7 @@ Transport
 Dinner
 {: .agenda-name }
 We will _as always_ share a simple but cosy meal, and a few beers in the city center.
+This time, it will be at [Ölrepubliken](http://olrepubliken.se/){: target="\_blank"}.
 {: .right }
 
 
@@ -105,7 +107,8 @@ We will _as always_ share a simple but cosy meal, and a few beers in the city ce
 {: .agenda-time }
 Welcome and planning of the day
 {: .agenda-name }
-
+Come on time, Volvo is offering breakfast!
+{: .right }
 9.30
 {: .agenda-time }
 Workshops
@@ -152,6 +155,8 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 **Hotel:** We have pre-booked 20 single rooms at [**Scandic Europe**](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-europa){: target="\_blank"} for one night (Monday, November 13th). If you want to claim one, just mention it when you sign up on Eventbrite. We will book the room for you and you can pay for it directly at the hotel (960 SEK for the night - special rate for Volvo events).
 
 **Public transport:** From the hotel (Nordstan station) or the central station to Volvo, you can take a tram (lines 5, 6 or 10) to Gropegårdsgatan. ([See Gothenburg transport network](http://www.vasttrafik.se/){: target="\_blank"})
+
+**Restaurant on Monday at 19.00:** We have booked a table for all participants at [**Ölrepubliken**](http://olrepubliken.se/){: target="\_blank"} (Kronhusgatan 2B, 411 13 Göteborg). It's a 10-minute walk from the hotel.
 
 If you have any questions, just write to us [events@praqma.com](mailto:events@praqma.com)
 
