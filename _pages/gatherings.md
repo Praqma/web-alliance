@@ -1,12 +1,37 @@
 ---
 layout: front
-title: 7th Gathering
+title: Gatherings
 
 ---
 
-**The CoDe Alliance** is gathering every six month. Gatherings are hosted by one of the members; we share thoughts, presentations, and demo results and new approaches.
+**The CoDe Alliance** is gathering every six month. We share thoughts, presentations, and demo results and new approaches.
 
-## The next gathering is at Volvo in Gothenburg on November 13th and 14th
+## The 8th gathering will be in Køge on June 7th and 8th
+
+We are planning a two-day gathering in the Comwell Køge Strand hotel.
+On Day 1 we'll have presentations, lightning talks, breakout sessions and facilitated workshops.
+Day 2 will have a dedicated theme.
+
+_More details will be available soon._
+
+## How to join {#howtojoin}
+
+There is only two prerequisites that need to be met for you to pack your suitcase and join us:
+
+1. You've gotta be ambitious about Continuous Delivery, DevTestOps, and Automation.
+2. You've gotta have an invitation.
+
+When you get your invite, it will contain the promotion code for the registration.
+
+**If you need an invite - mail us at [alliance@praqma.com](mailto:alliance@praqma.com) and explain your case.**
+
+## Sign-up for the 8th Gathering {#signup}
+
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=42525441741&ref=etckt" frameborder="0" height="380" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+<br>
+
+## The 7th gathering was at Volvo in Gothenburg on November 13th and 14th
 
 ![Alliance Chat](/images/7th-gathering-v3.jpg){: .pic .right .small }
 
@@ -16,7 +41,7 @@ In the 6 previous gatherings, we have met for a full day, but for the first time
 
 <br>
 
-## Program
+## Program of the 7th gathering
 
 ### November 13th
 
@@ -148,7 +173,7 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 
 <br>
 
-## Practical information {#practicalinfo}
+## Practical information for the 7th gathering {#practicalinfo}
 
 **Venue:** The gathering will take place at **Volvo PLB LUNDBY, PLB reception, Herkulesgatan 75, 41701 Gothenburg** ([map](https://www.google.se/maps/place/Volvo+PLB+LUNDBY/@57.7127171,11.9242735,17z/data=!4m5!3m4!1s0x0:0xfa965b0c62e7cf34!8m2!3d57.7126362!4d11.9234537){: target="\_blank"})
 
@@ -161,22 +186,3 @@ The program ends at 15:00 to allow you to catch your trains and flights back hom
 If you have any questions, just write to us [events@praqma.com](mailto:events@praqma.com)
 
 <br>
-
-## How to join {#howtojoin}
-
-The gathering is free to attend, there is only two prerequisites that need to be met for you to pack your suitcase and join us in Gothenburg:
-
-1. You've gotta be ambitious about Continuous Delivery, DevTestOps, and Automation.
-2. You've gotta have an invitation.
-
-When you get your invite, it will contain the promotion code for the registration.
-
-**If you need an invite - mail us at [alliance@praqma.com](mailto:alliance@praqma.com) and explain your case.**
-
-<br>
-
-## Sign-up {#signup}
-
-<br>
-
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=37122456266&ref=etckt" frameborder="0" height="380" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family: 'Lato', Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.code-conf.com/code-alliance-seven/">A Code-conf event</a></div></div>
