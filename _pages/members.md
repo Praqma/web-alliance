@@ -33,3 +33,6 @@ Among the worlds leading wind turbine manufacturers
 
 ## Kamstrup
 Provides smart metering solutions for utilities and submetering within electricity, water, heat energy and cooling
+
+## Vestas Wind systems
+Among the worlds leading wind turbine manufacturers
