@@ -22,9 +22,6 @@ Specializing in nanoscale wireless low-power technology for ultra-high resolutio
 ## Volvo
 Manufacture trucks, busses, construction equipment, marine and industrial power systems, and aerospace systems
 
-## GrammaTech
-Creators of CodeSonar; The static analysis tool for C, C++, Java, and binary code
-
 ## MAN Diesel & Turbo
 Provider of large-bore diesel engines and turbo machinery for marine and stationary applications
 
@@ -36,9 +33,3 @@ Among the worlds leading wind turbine manufacturers
 
 ## Kamstrup
 Provides smart metering solutions for utilities and submetering within electricity, water, heat energy and cooling
-
-## SKAT
-The Danish National Tax authorities
-
-## Gul og Gratis
-Online portal for peer-to-peer trading of new and preowned goods
