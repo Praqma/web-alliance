@@ -39,17 +39,15 @@ The alliance' tool stack naturally includes all tools, technologies and extensio
 
 ## Gatherings
 
-At least once every half year, Praqma is responsible for organizing a gathering, that shall be open to all members.
+At least once every 8 months, Praqma is responsible for organizing a gathering, that shall be open to all members.
 
-The gatherings may be hosted at facilities and venues at the members' organizations. Expenses for executing the gatherings shall be covered by Praqma.
+The gatherings is taking place at a venue Praqma carefully select, and the expenses are paid by a small fee upon registration of no more than 5.000 DKK to cover the costs of venue, dinner, and the overnight stay of the two-day events.
 
-Each alliance member is entitled to register two self-appointed (_chief_ and _geek_) organization representatives to participate, free of additional cost, at the gatherings.
+Each alliance member is encouraged to register two self-appointed (_chief_ and _geek_) organization representatives to participate.
+Each alliance member is entitled to send more participants to the gatherings than just the two designated roles.
 
-Each alliance member is entitled to send more participants to the gatherings than just the two designated roles. However, additional gathering participants may be charged a meet-up fee to cover the venue and catering costs of the gathering.
-
-At least two gatherings per year will be _general assemblies_, where the members will gather and discuss status and roadmaps for the next half-year period.
-
-Occasionally gatherings with a specialized topic will be arranged. All members with interest in the particular topic are entitled and encouraged to participate.
+Gatherings are always including agenda topics _general assemblies_ interest, where the members will gather and discuss status and roadmaps for the next period.
+Gatherings with themed topics will also be arranged. All members with interest in the particular topic are entitled and encouraged to participate.
 
 The gatherings - general as well as specialized - are _decision meetings_. Members who wish to influence are encouraged to attend.
 
