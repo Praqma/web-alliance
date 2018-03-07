@@ -28,7 +28,7 @@ Provider of large-bore diesel engines and turbo machinery for marine and station
 ## Cryptera
 Specialized in encrypted PIN Pads, unattended Payment Terminals, Remote encryption keys
 
-## Siemens Wind Power
+## Siemens Gamesa Renewable Energy
 Among the worlds leading wind turbine manufacturers
 
 ## Kamstrup
