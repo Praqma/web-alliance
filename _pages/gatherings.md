@@ -12,7 +12,7 @@ You'll find the next gathering announced below - unless you just missed one? The
 
 We are planning the next two-day gathering in the [Comwell Køge Strand hotel](https://www.google.dk/maps/place/Comwell+K%C3%B8ge+Strand/@55.4475229,12.1918276,15z/data=!4m12!1m6!3m5!1s0x0:0x85efc6457e1ec7fe!2sComwell+K%C3%B8ge+Strand!8m2!3d55.4475229!4d12.1918276!3m4!1s0x0:0x85efc6457e1ec7fe!8m2!3d55.4475229!4d12.1918276). Everything is arranged from dinner to snacks and nice [code camp facilities](https://www.praqma.com/stories/alliance-format/). You just have to show up.
 
-We will start on the 1st day at 11.00 (you are welcome from 10.00 though) and end on the 2nd day at 15.00, so you have to time travel.
+We will start on the 1st day at 11.00 (you are welcome from 10.00 though) and end on the 2nd day at 15.00, so you have time travel back home.
 
 On Day 1 we'll have presentations, lightning talks, breakout sessions and facilitated workshops.
 
