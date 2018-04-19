@@ -2,18 +2,10 @@
 layout: front
 title: Recent initiatives
 ---
-
-**The CoDe Alliance** is gathering every six month. Gatherings are hosted by one of the members; we share thoughts, presentations, and demo results and new approaches.
-
 See [the gathering page]({{site.url}}/gatherings){: target="\_blank"} for our next gathering.
 
-Here is a list of our recent initiatives.
-
-## Git Phlow {#gitphlow}
-
-On the 7th gathering, we will demo the complete setup and showcase the pragmatic automated approach to working with git. We will dive into the different aspects of using _The Phlow_ and how they optimize your daily workflows.
-
-Git Phlow will soon be available with support for Atlassian Jira and Windows. The Continuous Delivery Storyline entails our Pretested Integration plugin for Jenkins, which now supports scripted pipelines and comes as a git extension, for increased flexibility. This is all made possible by Kamstrup, fellow CoDe Alliance member.
+Here is a list of our recent initiatives and topics we can dive into in the 8th gatering.
+Any member can participate in forming the agenda in our [Code Alliance Slack team](http://josra.slack.com/).
 
 ## Jenkins as Code {#jac}
 
@@ -23,19 +15,11 @@ By putting it into a plugin and separating configuration files - it’s up to us
 
 Lightweight Docker setup will make it even easier to start and maintain but isn’t obligatory. A plugin can be applied on already working Jenkins instances, no matter how it is hosted.
 
-On the 7th gathering, we're ready to present a flexible MVP with complete separation of configuration for easy maintenance and upgrade.
+It is matured a lot since the 7th gathering and is now first class project in the Jenkins community taking a lot of interest and focus.
 
-## Custom Bill of Materials - Gradle plugin
+We believe it is production ready and we're rolling it out now.
 
-_Build products from configuration of components and automate bill of material._
-
-We can present a customer specific plugin, and if you're interested in being involved they are ready to make it publicly available.
-
-The idea is old and already implemented several times at different companies. This Gradle plugin harvest the many best practices and distill it into something we can make an easy-to-use tool. It supports you in building your products from released components and to automate the tedious work of making bill of material.
-
-Think software as inventory and work towards utilizing configuration rotation and dependency try-out.
-
-## Orbit
+## Managed OPS
 
 _Managed OPS done right in the cloud or on-premise utilizing a large open source ecosystem._
 
@@ -47,12 +31,6 @@ _Running Atlassian products in a way that makes your operations impressed._
 
 We will present how to run the Atlassian Data Center toolstack in Docker with Kubernetes to bring the strength of Data Center and Kubernetes together: Scale horizontally and get resiliency; Everything is described as code; Upgrade Jira with zero downtime and scale to meet demands in seconds.
 ASK also supports Atlassian Server editions.
-
-## Install hardware using containers
-
-At our customers, we are working on installing hardware boards in their products using containers. The idea is to wrap dependencies for build and hardware installation in a container to alleviate other dependencies than physical cables and a Docker image. This enables build system and developers to use the same environment, as well as the installation.
-
-If interested, you need to contact us before the gathering, so we can ask the customer if we can demonstrate the setup.
 
 ## PlusBump
 
@@ -66,21 +44,15 @@ That is an automated approach!
 
 We're ready to demonstrate the concept, and one implementation of if.
 
-## Traceability is a theme {#traceability}
+## Build and CI metrics {#metrics}
 
-We have themed the gathering, purely to allow us to dive into traceability and topics on how to measure Continuous Delivery in your organization utilizing all the data you generate daily from your toolstack. The buzzword would probably be big data!
+We have themed the 8th gathering dedicating day 2 to metrics. We will dive into the many aspects and ideas about build and CI metrics. Which metrics are we using? Which would we like? What do we want to use them for? Are there any good standards and reuse.
 
-Within Praqma we have been looking into this for a while, and several efforts have been made available in a proof-of-concept state.
+Metrics of all kind is a topic that keeps coming up over and over again - everyone want metrics for their software development.
 
-*[The Tracey effort](https://github.com/Praqma?utf8=%E2%9C%93&q=tracey&type=&language=)* is one of them and it uses a message bus and the [Eiffel](https://github.com/Ericsson/eiffel-remrem) protocol to create traces from the tools involved in Continuous Delivery. It could be used for event-based triggering, or used for visualization of interesting metrics or relations.
+On our last Gathering it was our largest break out sessions on the 2nd day, where the theme was traceability but metrics was drawing a crowd.
+There wasn't any conclusions or any common projects kicked off, and we can easily dive deeper into metrics.
 
-Our *[QuTiCon project](https://github.com/Praqma/quticon_visualization)* is also about visualization but the focus here is on displaying  time series data  to measure typically trends over time. We also have a collection of ELK scripts helping with the same data metrics.
+We believe actionable metrics is important and we can focus on these. We propose to discuss metrics that we can actually react to, and not just metrics that shows nice graphs. Something with clearly defined ways to interpret and guidance towards fixing the issues the metrics reveals. The actionable metrics should preferably be for both managers with planning aspects and developers with technical aspects.
 
-Our vision includes answering questions like “Where is my commit”, assuming you have described your process first. Or “How long time does it take for a bug fix commit to get released?”
-We see many of our customers, most of them members of the Code Alliance, investigating or directly working on things like these. We’re involved too.
-
-There is room for both research and investigations, as well a lot of work we could share and reuse to come up with a good project to benefit all of the members. So on day two we plan to have workshops around these broad topics, but we will also have to dive into details and be concrete.
-
-We will facilitate some workshops and we will start with getting ourselves the complete architectural overview of all the pieces we see belong in this area and how they work together nicely. We have a plan.
-
-<br/>
+It would be really interesting if as many of you as possible could come up with a short lightning talk of what you really would like to have metrics on and what you would use them for.
