@@ -8,3 +8,5 @@ _site/
 linkchecker.report.csv
 linkchecker.report.html
 **/_tmp_*.*
+
+.jekyll-metadata
