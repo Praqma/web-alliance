@@ -27,7 +27,7 @@ Doors open - light breakfast
 
 11.00
 {: .agenda-time }
-Presentations, lightening talks and breakout sessions
+Presentations, lightning talks and breakout sessions
 {: .agenda-name }
 
 18.30

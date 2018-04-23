@@ -4,7 +4,7 @@ title: Recent initiatives
 ---
 See [the gathering page]({{site.url}}/gatherings){: target="\_blank"} for our next gathering.
 
-Here is a list of our recent initiatives and topics we can dive into in the 8th gatering.
+Here is a list of our recent initiatives and topics we can dive into in the 8th gathering.
 Any member can participate in forming the agenda in our [Code Alliance Slack team](http://josra.slack.com/).
 
 ## Jenkins as Code {#jac}
@@ -17,7 +17,7 @@ Lightweight Docker setup will make it even easier to start and maintain but isnâ
 
 It is matured a lot since the 7th gathering and is now first class project in the Jenkins community taking a lot of interest and focus.
 
-We believe it is production ready and we're rolling it out now.
+We believe it is production-ready and we're rolling it out now.
 
 ## Managed OPS
 
@@ -46,9 +46,9 @@ We're ready to demonstrate the concept, and one implementation of if.
 
 ## Build and CI metrics {#metrics}
 
-We have themed the 8th gathering dedicating day 2 to metrics. We will dive into the many aspects and ideas about build and CI metrics. Which metrics are we using? Which would we like? What do we want to use them for? Are there any good standards and reuse.
+We will dedicate the Day 2of  the 8th gathering to metrics. We will dive into the many aspects and ideas about build and CI metrics. Which metrics are we using? Which would we like? What do we want to use them for? Are there any good standards and reuse.
 
-Metrics of all kind is a topic that keeps coming up over and over again - everyone want metrics for their software development.
+Metrics of all kind is a topic that keeps coming up over and over again - everyone wants metrics for their software development.
 
 On our last Gathering it was our largest break out sessions on the 2nd day, where the theme was traceability but metrics was drawing a crowd.
 There wasn't any conclusions or any common projects kicked off, and we can easily dive deeper into metrics.
