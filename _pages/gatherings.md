@@ -49,8 +49,10 @@ A summary of Praqma's technology projects
 
 14.15
 {: .agenda-time }
-Lightning talks on metrics
+Three lightning talks on metrics
 {: .agenda-name }
+Why metrics / Principles, KISS and Model / Lessons learned from scraping git data
+{: .right }
 
 15.00
 {: .agenda-time }
@@ -97,7 +99,7 @@ BREAK
 
 10.30
 {: .agenda-time }
-Volvo Trcuks' presentation on metrics projects
+Volvo Trucks' presentation on metrics projects
 {: .agenda-name }
 
 11.30
