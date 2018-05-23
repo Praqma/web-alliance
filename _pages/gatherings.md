@@ -27,26 +27,108 @@ Doors open - light breakfast
 
 11.00
 {: .agenda-time }
-Presentations, lightning talks and breakout sessions
+Welcome and Alliance Roundtable
+{: .agenda-name }
+Share your prouds & pains, and expectations
+{: .right }
+
+12.15
+{: .agenda-time }
+LUNCH
 {: .agenda-name }
 
-18.30
+13.00
 {: .agenda-time }
-3-course dinner
+Jenkins Configuration as Code - a real success
+{: .agenda-name }
+
+13.45
+{: .agenda-time }
+A summary of Praqma's technology projects
+{: .agenda-name }
+
+14.15
+{: .agenda-time }
+Lightning talks on metrics
+{: .agenda-name }
+
+15.00
+{: .agenda-time }
+BREAK
+{: .agenda-name }
+
+15.30
+{: .agenda-time }
+Open Space Discussions
+{: .agenda-name }
+Two slots with 2-3 groups per slot, and a joint wrap-up
+{: .right }
+
+18.00
+{: .agenda-time }
+Wrap-up: Action points and collaboration group
+{: .agenda-name }
+
+18.15
+{: .agenda-time }
+FREE TIME
+{: .agenda-name }
+
+18.45
+{: .agenda-time }
+DINNER
 {: .agenda-name }
 
 ### June 8th:
 09.00
 {: .agenda-time }
-Presentations and breakout sessions on different metrics topics
+Introduction to Day 2
+{: .agenda-name }
+
+09.15
+{: .agenda-time }
+Siemens' presentation on metrics projects
+{: .agenda-name }
+
+10.15
+{: .agenda-time }
+BREAK
+{: .agenda-name }
+
+10.30
+{: .agenda-time }
+Volvo Trcuks' presentation on metrics projects
+{: .agenda-name }
+
+11.30
+{: .agenda-time }
+DORA's DevOps report - What are successful metrics for Continuous Delivery?
+{: .agenda-name }
+
+12.00
+{: .agenda-time }
+LUNCH
+{: .agenda-name }
+
+13.00
+{: .agenda-time }
+Open Space Discussions
+{: .agenda-name }
+Two slots with 2-3 groups per slot, and a joint wrap-up
+{: .right }
+
+14.45
+{: .agenda-time }
+Wrap-up and retrospective
 {: .agenda-name }
 
 15.00
 {: .agenda-time }
-Goodbye
+The End
 {: .agenda-name }
 
-Any member can participate in forming the agenda in our [CoDe Alliance Slack team](http://josra.slack.com/){: target="\_blank"}.
+<br>
+Want to share your story? Any member can participate in forming the agenda in our [CoDe Alliance Slack channel](http://josra.slack.com/){: target="\_blank"}.
 
 ## Practical information for the 8th gathering {#practicalinfo}
 
