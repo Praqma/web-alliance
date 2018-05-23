@@ -8,8 +8,8 @@ title: Gatherings
 
 ## The 8th gathering will be in Køge on June 7th and 8th
 
-We are planning the next two-day gathering in the [Comwell Køge Strand hotel](https://www.comwellkogestrand.dk/comwell-koege/info-om-hotellet){: target="\_blank"}), close to Copenhagen.
-<br>Everything is arranged from dinner to snacks and nice [code camp facilities](https://www.praqma.com/stories/alliance-format/){: target="\_blank"}). You just have to show up.
+We are planning the next two-day gathering in the [Comwell Køge Strand hotel](https://www.comwellkogestrand.dk/comwell-koege/info-om-hotellet){: target="\_blank"}, close to Copenhagen.
+<br>Everything is arranged from breakfast to dinner and nice [code camp facilities](https://www.praqma.com/stories/alliance-format/){: target="\_blank"}. You just have to show up.
 
 ## Program
 
