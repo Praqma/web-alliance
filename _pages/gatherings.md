@@ -16,7 +16,7 @@ We are planning the next two-day gathering in the [Comwell Køge Strand hotel](h
 **The theme of this gathering is metrics for build, CI and Continuous Delivery.**
 <br>See the theme description and details on the [Initiatives page]({{site.url}}/initiatives#metrics){: target="\_blank"}.
 
-We start on the first day at 11.00 and end on the second day at 15.00, so you have time to travel back home.
+We start on the first day at 11.00 and end on the second day at 15.15, so you have time to travel back home.
 
 ### June 7th:
 
@@ -27,69 +27,83 @@ Doors open - light breakfast
 
 11.00
 {: .agenda-time }
-Welcome and Alliance Roundtable
+Welcome and Alliance Round Table
 {: .agenda-name }
 Share your prouds & pains, and expectations
 {: .right }
 
-12.15
+12.05
 {: .agenda-time }
-LUNCH
+BREAK
 {: .agenda-name }
 
-13.00
+12.15
 {: .agenda-time }
 Jenkins Configuration as Code - a real success
 {: .agenda-name }
 
+13.00
+{: .agenda-time }
+LUNCH
+{: .agenda-name }
+
 13.45
 {: .agenda-time }
-A summary of Praqma's technology projects
+A summary of Praqma's technology projects by Mike Long
 {: .agenda-name }
+Cyberdojo, ASK, Orbit, Helmsman and more
+{: .right }
 
 14.15
 {: .agenda-time }
 Three lightning talks on metrics
 {: .agenda-name }
-Why metrics / Principles, KISS and Model / Lessons learned from scraping git data
+Why metrics / Principles, fact based/data driven, KISS and model / Praqma's git-metrics project & Atlassian metrics experiment
 {: .right }
 
 15.00
 {: .agenda-time }
-BREAK
+BREAK (hotel check-in)
 {: .agenda-name }
 
 15.30
 {: .agenda-time }
 Open Space Discussions
 {: .agenda-name }
-Two slots with 2-3 groups per slot, and a joint wrap-up
+One session with 2-3 groups, and a common wrap-up
 {: .right }
 
-18.00
+17.00
 {: .agenda-time }
-Wrap-up: Action points and collaboration group
+BREAK (grab a beer)
 {: .agenda-name }
+
+17.15
+{: .agenda-time }
+Predictive Models of Development Teams and the Systems They Build
+{: .agenda-name }
+Robert Smallshire from Sixt NORTH
+{: .right }
 
 18.15
 {: .agenda-time }
 FREE TIME
 {: .agenda-name }
 
-18.45
+19.00
 {: .agenda-time }
-DINNER
+DINNER & DRINKS
 {: .agenda-name }
 
 ### June 8th:
 09.00
 {: .agenda-time }
-Introduction to Day 2
+Introduction to Day 2 - Motivation for metrics
 {: .agenda-name }
 
 09.15
 {: .agenda-time }
-Siemens' presentation on metrics projects
+Siemens' metrics efforts
 {: .agenda-name }
 
 10.15
@@ -99,32 +113,44 @@ BREAK
 
 10.30
 {: .agenda-time }
-Volvo Trucks' presentation on metrics projects
+Volvo Trucks' presentation on metrics and future plans
 {: .agenda-name }
 
-11.30
+11.15
 {: .agenda-time }
-DORA's DevOps report - What are successful metrics for Continuous Delivery?
+Looking at the DevOps report from DORA - What are successful metrics for Continuous Delivery?
 {: .agenda-name }
 
-12.00
+11.45
 {: .agenda-time }
 LUNCH
 {: .agenda-name }
 
-13.00
+12.30
 {: .agenda-time }
 Open Space Discussions
 {: .agenda-name }
-Two slots with 2-3 groups per slot, and a joint wrap-up
+One session with 2-3 groups, and a common wrap-up
 {: .right }
 
-14.45
+13.45
+{: .agenda-time }
+BREAK
+{: .agenda-name }
+
+14.00
+{: .agenda-time }
+Open Space Discussions
+{: .agenda-name }
+One session with 2-3 groups, and a common wrap-up
+{: .right }
+
+15.00
 {: .agenda-time }
 Wrap-up and retrospective
 {: .agenda-name }
 
-15.00
+15.15
 {: .agenda-time }
 The End
 {: .agenda-name }
