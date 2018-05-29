@@ -8,7 +8,7 @@ title: Gatherings
 
 ## The 8th gathering will be in Køge on June 7th and 8th
 
-We are planning the next two-day gathering in the [Comwell Køge Strand hotel](https://www.comwellkogestrand.dk/comwell-koege/info-om-hotellet){: target="\_blank"}, close to Copenhagen.
+We are planning the next gathering in the [Comwell Køge Strand hotel](https://www.comwellkogestrand.dk/comwell-koege/info-om-hotellet){: target="\_blank"}, close to Copenhagen.
 <br>Everything is arranged from breakfast to dinner and nice [code camp facilities](https://www.praqma.com/stories/alliance-format/){: target="\_blank"}. You just have to show up.
 
 ## Program
@@ -16,7 +16,7 @@ We are planning the next two-day gathering in the [Comwell Køge Strand hotel](h
 **The theme of this gathering is metrics for build, CI and Continuous Delivery.**
 <br>See the theme description and details on the [Initiatives page]({{site.url}}/initiatives#metrics){: target="\_blank"}.
 
-We start on the first day at 11.00 and end on the second day at 15.15, so you have time to travel back home.
+We start on the first day at 11.00 and end on the second day at 15.15, so you have time to travel.
 
 ### June 7th:
 
@@ -82,7 +82,7 @@ BREAK (grab a beer)
 {: .agenda-time }
 Predictive Models of Development Teams and the Systems They Build
 {: .agenda-name }
-Robert Smallshire from Sixt NORTH
+Rob Smallshire from Sixty North
 {: .right }
 
 18.15
@@ -96,6 +96,7 @@ DINNER & DRINKS
 {: .agenda-name }
 
 ### June 8th:
+
 09.00
 {: .agenda-time }
 Introduction to Day 2 - Motivation for metrics
