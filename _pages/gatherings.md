@@ -29,7 +29,7 @@ Doors open - light breakfast
 {: .agenda-time }
 Welcome and Alliance Round Table
 {: .agenda-name }
-Share your prouds & pains, and expectations
+Share your prouds & pains, expectations and topics for Open Space discussions
 {: .right }
 
 12.05
@@ -39,8 +39,10 @@ BREAK
 
 12.15
 {: .agenda-time }
-Jenkins Configuration as Code - a real success
+Jenkins Configuration as Code
 {: .agenda-name }
+A road to automating the automation server
+{: .right }
 
 13.00
 {: .agenda-time }
@@ -49,7 +51,7 @@ LUNCH
 
 13.45
 {: .agenda-time }
-A summary of Praqma's technology projects by Mike Long
+A summary of Praqma's technology projects
 {: .agenda-name }
 Cyberdojo, ASK, Orbit, Helmsman and more
 {: .right }
@@ -58,7 +60,7 @@ Cyberdojo, ASK, Orbit, Helmsman and more
 {: .agenda-time }
 Three lightning talks on metrics
 {: .agenda-name }
-Why metrics / Principles, fact based/data driven, KISS and model / Praqma's git-metrics project & Atlassian metrics experiment
+\-Theme kick-off and why metrics.  -Principles, fact based/data driven, KISS and model.  -Praqma's git-metrics project & Atlassian metrics experiment
 {: .right }
 
 15.00
@@ -80,14 +82,14 @@ BREAK (grab a beer)
 
 17.15
 {: .agenda-time }
-Predictive Models of Development Teams and the Systems They Build
+Predictive Models of Development Teams and the Systems They Build (By Rob Smallshire from Sixty North)
 {: .agenda-name }
-Rob Smallshire from Sixty North
+It's tricky to perform scientific experiments on developers, so let's simulate them instead! The emerging field of software process dynamics applies systems thinking and simulations of software development teams, to inform decisions on projects, process and architecture.
 {: .right }
 
 18.15
 {: .agenda-time }
-FREE TIME
+FREE TIME - hangout until dinner
 {: .agenda-name }
 
 19.00
@@ -99,13 +101,17 @@ DINNER & DRINKS
 
 09.00
 {: .agenda-time }
-Introduction to Day 2 - Motivation for metrics
+Introduction to Day 2 and thesis project summaries
 {: .agenda-name }
+Presenting a few results from academia
+{: .right }
 
 09.15
 {: .agenda-time }
-Siemens' metrics efforts
+Metrics efforts at Siemens Wind Systems
 {: .agenda-name }
+Measuring continuous delivery and using code near metrics
+{: .right }
 
 10.15
 {: .agenda-time }
@@ -114,13 +120,15 @@ BREAK
 
 10.30
 {: .agenda-time }
-Volvo Trucks' presentation on metrics and future plans
+Metrics and future plans at Volvo Trucks
 {: .agenda-name }
 
 11.15
 {: .agenda-time }
-Looking at the DevOps report from DORA - What are successful metrics for Continuous Delivery?
+Looking at the DevOps report from DORA
 {: .agenda-name }
+What are successful metrics for Continuous Delivery?
+{: .right }
 
 11.45
 {: .agenda-time }
@@ -148,7 +156,7 @@ One session with 2-3 groups, and a common wrap-up
 
 15.00
 {: .agenda-time }
-Wrap-up and retrospective
+Good buy - see you next time
 {: .agenda-name }
 
 15.15
@@ -156,8 +164,11 @@ Wrap-up and retrospective
 The End
 {: .agenda-name }
 
-<br>
-Want to share your story? Any member can participate in forming the agenda in our [CoDe Alliance Slack channel](http://josra.slack.com/){: target="\_blank"}.
+### Open Space discussions
+
+We very much encourage you to suggest and pitch topics on the days for our open space discussions.
+It could be you want to share your experience or want to learn how others did something within continuous delivery, or maybe you like to discuss a good idea and get your fellow members input?
+
 
 ## Practical information for the 8th gathering {#practicalinfo}
 
