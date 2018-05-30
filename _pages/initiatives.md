@@ -4,7 +4,7 @@ title: Recent initiatives
 ---
 See [the gathering page]({{site.url}}/gatherings){: target="\_blank"} for our next gathering.
 
-Here is a list of our recent initiatives and topics we can dive into in the 8th gathering.
+Here a list of some of our recent initiatives and topics we can dive into in the 8th gathering.
 Any member can participate in forming the agenda in our [Code Alliance Slack team](http://josra.slack.com/).
 
 ## Jenkins as Code {#jac}
@@ -32,17 +32,6 @@ _Running Atlassian products in a way that makes your operations impressed._
 We will present how to run the Atlassian Data Center toolstack in Docker with Kubernetes to bring the strength of Data Center and Kubernetes together: Scale horizontally and get resiliency; Everything is described as code; Upgrade Jira with zero downtime and scale to meet demands in seconds.
 ASK also supports Atlassian Server editions.
 
-## PlusBump
-
-_Your developers should be in control of the version bumps._
-
-Who knows what the next version should be? Independently from your version scheme, it is always the developer who should have the last word in these matter, as they will be writing the code that makes your project break backwards compatibility.
-
-It could be as easy as the developer using smart commit message by including phrases like “Bumps major” or “Patch bump” and then letting the wincrementor tool do the house-keeping of the next version of your project.
-
-That is an automated approach!
-
-We're ready to demonstrate the concept, and one implementation of if.
 
 ## Build and CI metrics {#metrics}
 
