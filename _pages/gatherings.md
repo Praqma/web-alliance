@@ -108,7 +108,7 @@ Presenting a few results from academia
 
 09.15
 {: .agenda-time }
-Metrics efforts at Siemens Wind Systems
+Metrics efforts at Siemens Wind Power
 {: .agenda-name }
 Measuring continuous delivery and using code near metrics
 {: .right }
