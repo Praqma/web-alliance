@@ -4,6 +4,10 @@ title: Gatherings
 
 ---
 
+## Find out everything about the [9th gathering of the Continuous Delivery Alliance](https://www.code-conf.com/2019/alliance-gathering-9/) on March 18-19 in Copenhagen on [code-conf.com](https://www.code-conf.com/2019/alliance-gathering-9/).
+
+
+<!--
 **The Continuous Delivery Alliance** is gathering about every six months. We share thoughts, presentations, demos, results and new approaches. [Read about our last gathering.](https://www.praqma.com/stories/7th-gathering/){: target="\_blank"}
 
 ## The 8th gathering will be in Køge on June 7th and 8th
@@ -193,3 +197,5 @@ When you get your invite, it will contain the promotion code needed for registra
 Enter your promotion code and apply, so you can register and pay for the venue.
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=42525441741&ref=etckt" frameborder="0" height="380" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+-->
